@@ -17,7 +17,7 @@ from exploration and stationarity diagnostics to forecasting and econometric mod
 
     * **French unemployment rate** 
     * **US inflation rate**
-  * Uses **ADF (Augmented Dickey–Fuller)** and **KPSS** tests to assess **stationarity**, a crucial prerequisite before fitting many time series models.
+  * Uses **ADF (Augmented Dickey-Fuller)** and **KPSS** tests to assess **stationarity**, a crucial prerequisite before fitting many time series models.
 
 * **`notebooks/03_arima_forecasting_cac40.Rmd` - ARIMA forecasting (CAC 40)**
 
